@@ -49,7 +49,8 @@ Developer.?**
 # 📁Part A  
 ## CLIprompt
 
-[![Task Image](./task 2.jpeg)](./task 2.jpeg)
+[![Task 2](./task%202.jpeg)](./task%202.jpeg)
+
 
 ## AI generated 
 
