@@ -46,8 +46,9 @@ Developer.?**
              2- Maintain scalibility.
              3- AI collaboration.
 
+[![Prompt Image](./prompt.jpeg)](./prompt.jpeg)
 
- [Open Image Creator File](./path/to/task 2.jpeg)
+ 
  
 # 📁Part C — Multiple Choice Questions
 
