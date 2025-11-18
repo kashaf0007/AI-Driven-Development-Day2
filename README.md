@@ -46,6 +46,13 @@ Developer.?**
              2- Maintain scalibility.
              3- AI collaboration.
 
+# 📁Part A  
+## CLIprompt
+
+[![Task Image](./task 2.jpeg)](./task 2.jpeg)
+
+## AI generated 
+
 [![Prompt Image](./prompt.jpeg)](./prompt.jpeg)
 
  
