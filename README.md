@@ -46,6 +46,9 @@ Developer.?**
              2- Maintain scalibility.
              3- AI collaboration.
 
+
+ [Open Image Creator File](./path/to/task 2.jpeg)
+ 
 # 📁Part C — Multiple Choice Questions
 
 1. **What is the main purpose of Spec-Driven Development?**
